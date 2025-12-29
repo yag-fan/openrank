@@ -1,2 +1,2 @@
 # openrank
-openrank比赛存放数据
+存放初赛PPT
