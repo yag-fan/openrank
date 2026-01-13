@@ -1,4 +1,4 @@
-# PR预测风险大屏系统
+<img width="543" height="343" alt="image" src="https://github.com/user-attachments/assets/e621d18d-c0fa-466f-972c-a3f378e30899" /># PR预测风险大屏系统
 
 一个基于机器学习的PR（Pull Request）风险预测和可视化大屏系统，用于实时监控和分析代码仓库的PR风险情况。
 
@@ -213,4 +213,8 @@ proxy: {
 - ✅ `package.json` - 依赖配置
 - ✅ `vite.config.js` - Vite配置
 - ✅ `README.md` - 前端说明文档
+<img width="3569" height="2066" alt="pr_hours_line_chart_" src="https://github.com/user-attachments/assets/e49d2760-4b70-429e-8167-c15f130eb64f" />
+
+
+
 
