@@ -213,7 +213,10 @@ proxy: {
 - ✅ `package.json` - 依赖配置
 - ✅ `vite.config.js` - Vite配置
 - ✅ `README.md` - 前端说明文档
-<img width="3569" height="2066" alt="pr_hours_line_chart_" src="https://github.com/user-attachments/assets/e49d2760-4b70-429e-8167-c15f130eb64f" />
+大屏展示
+
+<img width="1912" height="948" alt="1" src="https://github.com/user-attachments/assets/6945dc28-e3bb-42d5-b532-8e505da60823" />
+<img width="1912" height="948" alt="2" src="https://github.com/user-attachments/assets/2736fe64-0914-4477-be7a-fe6b6c3bebe8" />
 
 
 
