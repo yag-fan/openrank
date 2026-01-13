@@ -1,4 +1,4 @@
-<img width="543" height="343" alt="image" src="https://github.com/user-attachments/assets/e621d18d-c0fa-466f-972c-a3f378e30899" /># PR预测风险大屏系统
+## 由于数据量太大所以截取了一小部分数据放入了github用于效果展示
 
 一个基于机器学习的PR（Pull Request）风险预测和可视化大屏系统，用于实时监控和分析代码仓库的PR风险情况。
 
@@ -77,7 +77,7 @@ openrank/
 
 1. **克隆项目**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/yag-fan/openrank.git
    cd openrank
    ```
 
